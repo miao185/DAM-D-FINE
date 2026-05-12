@@ -1,6 +1,6 @@
 # DAM-D-FINE
 
-This repository contains the official open-source code for the lightweight road surface crack detection model DAM-D-FINE, associated with our manuscript submitted to The Visual Computer. 
+This repository contains the official open-source code for the lightweight road surface crack detection model DAM-D-FINE, associated with our manuscript submitted to Pattern Analysis and Applications. 
 
 **Commitment:** We guarantee long-term public access to this repository to support future research and ensure the full reproducibility of our method.
 
